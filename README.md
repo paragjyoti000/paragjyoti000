@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Paragjyoti Sutradhar!
 
 ## 💻 About Me
-I'm a passionate Full-Stack Developer with a strong interest in building web applications and exploring new technologies. Currently, I'm working as an **Application Packager** at Wipro and pursuing **Full Stack Web Development** in my spare time.
+I'm a passionate Full-Stack Developer with a strong interest in building web applications and exploring new technologies. Currently, I work as an **Application Packager** at Wipro and pursue **Full Stack Web Development** in my free time.
 
 - 🌱 I’m currently learning **Next.js**, **Game Development**, and sharpening my **MERN stack** skills.
 - 💼 Looking to transition into a **Web or Software Development** role.
@@ -31,9 +31,9 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paragjyoti000&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight)
 
 ## ✨ Fun Fact
 > I love mixing tech with anime — that's why I built [**Otakuscrolls**](https://otakuscrolls.com), a Korean light/web novel reading platform with gamified features!
