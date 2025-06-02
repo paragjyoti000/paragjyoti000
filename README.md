@@ -5,7 +5,6 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 
 - 🌱 I’m currently learning **Next.js**, **Game Development**, and sharpening my **MERN stack** skills.
 - 💼 Looking to transition into a **Web or Software Development** role.
-- 👾 I’m also a part-time **Gamer Consultant** helping players in games like *Wuthering Waves*, *Genshin Impact*, and *Minecraft*.
 - 📫 Reach me at: [paragjyoti000@gmail.com](paragjyoti000@gmail.com) 
 - 🌐 Portfolio: [https://otakuscrolls.com](https://otakuscrolls.com)
 
