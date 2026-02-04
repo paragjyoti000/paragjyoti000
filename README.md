@@ -6,7 +6,6 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 - 🌱 I’m currently learning **C#**, **Game Development**, and sharpening my **MERN stack** skills.
 - 💼 Looking to transition into a **Web or Software Development** role.
 - 📫 Reach me at: [paragjyoti000@gmail.com](paragjyoti000@gmail.com) 
-- 🌐 Portfolio: [https://otakuscrolls.pages.dev](https://otakuscrolls.pages.dev)
 
 ## 🚀 Tech Stack
 **Languages:**  
@@ -35,7 +34,7 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight)
 
 ## ✨ Fun Fact
-> I love mixing tech with anime — that's why I built [**Otakuscrolls**](https://otakuscrolls.com), a Korean light/web novel reading platform with gamified features!
+> I love mixing tech with anime — that's why I built [**Otakuscrolls**](https://otakuscrolls.pages.dev), a Korean light/web novel reading platform with gamified features!
 
 ---
 
