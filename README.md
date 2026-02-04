@@ -27,11 +27,18 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)  
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=fff)
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paragjyoti000&show_icons=true&theme=tokyonight)
+  ## 📊 My GitHub Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paragjyoti000&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight&hide_border=false)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paragjyoti000&theme=tokyonight)
+
+</div>
+
 
 ## ✨ Fun Fact
 > I love mixing tech with anime — that's why I built [**Otakuscrolls**](https://otakuscrolls.pages.dev), a Korean light/web novel reading platform with gamified features!
