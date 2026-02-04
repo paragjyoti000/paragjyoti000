@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Paragjyoti Sutradhar!
 
 ## 💻 About Me
-I'm a passionate Full-Stack Developer with a strong interest in building web applications and exploring new technologies. Currently, I work as an **Application Packager** at Wipro and pursue **Full Stack Web Development** in my free time.
+I'm a passionate Full-Stack Developer with a strong interest in building web applications and exploring new technologies. Currently, I work as an **Automation Engineer** at Wipro and pursue **Full Stack Web Development** in my free time.
 
 - 🌱 I’m currently learning **C#**, **Game Development**, and sharpening my **MERN stack** skills.
 - 💼 Looking to transition into a **Web or Software Development** role.
 - 📫 Reach me at: [paragjyoti000@gmail.com](paragjyoti000@gmail.com) 
-- 🌐 Portfolio: [https://otakuscrolls.com](https://otakuscrolls.com)
+- 🌐 Portfolio: [https://otakuscrolls.pages.dev](https://otakuscrolls.pages.dev)
 
 ## 🚀 Tech Stack
 **Languages:**  
