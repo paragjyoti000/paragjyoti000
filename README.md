@@ -31,11 +31,9 @@ I'm a passionate Full-Stack Developer with a strong interest in building web app
 
   ## 📊 My GitHub Metrics
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paragjyoti000&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paragjyoti000&show_icons=true&theme=tokyonight&count_private=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight&hide_border=false)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paragjyoti000&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paragjyoti000&layout=compact&theme=tokyonight)
 
 </div>
 
